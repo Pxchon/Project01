@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
+.navbar {
+    background-color: black;
+    margin: 0px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+
+}
+.navbar ul a li {
+    color: white;
+    display: inline;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-family: 'Nerko One', cursive;
+}
+.register {
+    text-align: center;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    height: 850px;
+    text-align: center;
+    background-color:rgba(255, 250, 250, 0.425)
+    
+}
+
+.profile {
+    text-align: center;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    height: 850px;
+    text-align: center;
+    background-color:rgba(0, 0, 0, 0.425)
+   
+    
+}
+/* .profile01 {
+    text-align: center;
+    background-blend-mode: screen;
+    margin: center;
+    width: fit-content;
+
+} */
+.pro fieldset{
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+    
+}
+
+    
+.res01 {
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+}
+
+.rgo {
+    text-align: left;
+}
